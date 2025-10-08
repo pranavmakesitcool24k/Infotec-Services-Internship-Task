@@ -3,7 +3,7 @@
 A pixel‑perfect, responsive implementation of the provided Figma design using semantic HTML, modern CSS, and vanilla JavaScript.
 
 ## Live links
-- Website: [https://YOUR-NETLIFY-URL](https://infotect-internship-pranav.netlify.app/)
+- Website: [https://Live-Project-Link](https://infotect-internship-pranav.netlify.app/)
 
 ## Objectives
 - Convert the Figma file into a static web page.
