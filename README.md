@@ -1,9 +1,9 @@
-# Infotech Services — Front‑End Internship Assignment
+# Infotech Services - Front‑End Internship Assignment
 
 A pixel‑perfect, responsive implementation of the provided Figma design using semantic HTML, modern CSS, and vanilla JavaScript.
 
 ## Live links
-- Website: https://YOUR-NETLIFY-URL
+- Website: [https://YOUR-NETLIFY-URL](https://infotect-internship-pranav.netlify.app/)
 
 ## Objectives
 - Convert the Figma file into a static web page.
@@ -22,24 +22,6 @@ A pixel‑perfect, responsive implementation of the provided Figma design using 
 - Color palette implemented via CSS variables.
 - Optimized assets matching layout constraints.
 
-## Responsiveness
-Breakpoints:
-- Mobile: 320–767px
-- Tablet: 768–1023px
-- Desktop: 1024px+
-
-Approach:
-- Mobile‑first CSS with progressive enhancement.
-- Flexible Grid/Flex and fluid containers.
-- Responsive typography and images.
-
-## Features
-- Accessible, keyboard‑friendly header and mobile menu (hamburger ⇄ X).
-- Sticky header with subtle elevation on scroll.
-- Hero composition with rating, portrait orb, and stats; stacked correctly on mobile.
-- Reusable UI primitives: buttons, cards, badges.
-- Lightweight animations and micro‑interactions.
-
 ## Project structure
 ```
 .
@@ -54,10 +36,8 @@ Approach:
 
 ## Author
 - Name: Pranav Pardeshi 💜
-  
-- Email: you@example.com
-- LinkedIn: https://linkedin.com/in/YOURUSERNAME
-- Portfolio: https://YOUR-PORTFOLIO
+- LinkedIn: [https://linkedin.com/in/YOURUSERNAME](https://www.linkedin.com/in/pranav-pardeshi/)
+- Portfolio: [https://YOUR-PORTFOLIO](https://portfolio-914f0.web.app/)
 
 ## License
 This project is submitted solely for recruitment evaluation; not intended for commercial use.
